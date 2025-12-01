@@ -45,6 +45,8 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChiragNSundar&icon=8&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+<a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
