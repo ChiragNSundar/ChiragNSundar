@@ -10,7 +10,7 @@
 </p>
 
 
-🔭 I’m currently working on developing my skills<br><br>🌱 I’m currently learning Python, Dash, MongoDB, TensorFlow, PyTorch, SQL, PowerBI, tableau.<br><br>💬 Ask me about Data.<br><br>📫 How to reach me chiragns12@gmail.com<br><br>⚡ 
+🔭 I’m currently working on developing my skills<br><br>🌱 I’m currently learning Python, Dash, MongoDB, TensorFlow, PyTorch, SQL, PowerBI, Tableau, ReactJS, NextJS, Typescript.<br><br>📫 How to reach me chiragns12@gmail.com<br><br>⚡ 
 
 
 
